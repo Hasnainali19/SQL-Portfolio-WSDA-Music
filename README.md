@@ -13,10 +13,8 @@ This repository showcases my SQL practice and projects using the **WSDA Music** 
 ```
 SQL-Portfolio-WSDA-Music/
 ├── README.md
-├── data/
-│   ├── WSDA_Music_Queries.db
-├── queries/
-│   ├── WSDA_Music_Queries.sqbpro
+├── WSDA_Music_Queries.db
+├── WSDA_Music_Queries.sqbpro
 ```
 
 ## ▶️ How to Use
@@ -28,11 +26,11 @@ SQL-Portfolio-WSDA-Music/
    ```
 3. Open the database:   
    ```bash
-   sqlite3 data/WSDA_Music_Queries.db
+   sqlite3 WSDA_Music_Queries.db
    ```
 4. Run queries from the `queries/` folder, for example:
    ```sql
-   .read queries/WSDA_Music_Queries.sqbpro
+   .read WSDA_Music_Queries.sqbpro
    ```
 
 ## 📝 Notes
@@ -44,3 +42,4 @@ SQL-Portfolio-WSDA-Music/
 
 
 **Author:** Hasnainali Saiyed 
+
