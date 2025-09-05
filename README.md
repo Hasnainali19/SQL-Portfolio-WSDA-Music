@@ -28,7 +28,7 @@ SQL-Portfolio-WSDA-Music/
    ```bash
    sqlite3 WSDA_Music_Queries.db
    ```
-4. Run queries from the `queries/` folder, for example:
+4. Run queries for example:
    ```sql
    .read WSDA_Music_Queries.sqbpro
    ```
@@ -42,4 +42,5 @@ SQL-Portfolio-WSDA-Music/
 
 
 **Author:** Hasnainali Saiyed 
+
 
